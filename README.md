@@ -1,4 +1,8 @@
+love to live/
 
+goals:
+- spend 188k hrs on the Earth [x]
+- make a unicorn [_]
 
 <!---
 letmly/letmly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
